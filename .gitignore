@@ -1,0 +1,5 @@
+.qtenvrc
+*.exe
+results/*.*
+results/*/*.*
+results/*/*/*.*
