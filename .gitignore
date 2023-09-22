@@ -1,5 +1,7 @@
 .qtenvrc
 *.exe
 results/*.*
-results/*/*.*
-results/*/*/*.*
+results/client/*
+results/plots/*
+results/replica/accesses/*
+results/replica/logs/*
