@@ -12,7 +12,7 @@ The modules defined in _replication.ned_ are:
 - **replica**
 - **client** 
 
-<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/f0343f6e-6a42-4f1d-808b-c30e58f963bc" width="45%" height="45%">
+<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/31e022c2-1d80-4f54-b914-ac7e5de9fe38" width="45%" height="45%">
 
 
 ## Channels
@@ -88,7 +88,8 @@ This setting will automatically trigger the execution of the following python fi
 - **plot_client_operations.py**: number of operations per client
 - **plot_res_accesses.py**: number of accesses per resource
 
-<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/20f2dc75-1e81-477c-837e-07ecf1f27e37" width="45%" height="45%"> <br>
+<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/f59faecc-8c6b-4457-be65-6943d1c99a20" width="45%" height="45%"> <br>
 Please note that different replicas can have different number of accesses per resource, since a resource can be locked on a replica for a long time, causing the rejection of other operations.<br>
-<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/7fb2a523-3162-4b7c-964e-cad0b3522b55" width="45%" height="45%">
-<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/f274d8a5-a401-4127-9df7-98205effc6a1" width="45%" height="45%">
+<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/a5a71d49-6b51-40ea-8a17-c474193075fa" width="45%" height="45%">
+<img src="https://github.com/elisacomposta/quorum-based-replicated-datastore/assets/98694899/f789abb9-e8b8-46f0-9f90-735cd32cf3ce" width="45%" height="45%">
+
