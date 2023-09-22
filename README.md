@@ -65,7 +65,7 @@ To avoid this problem, versioning has been implemented: replicas also stores the
  
 ## Update: read-repair
 When a client performs a _get_, reaches the quorum on  the value to read and detects some stale responses, it sends the new value to the replicas that are not up-to-date.<br>
-Please note that the replica updates the data only if the value is more recent (higher version).
+Please note that the replica updates the data only if the value is more recent (i.e. higher version).
 
 ## Data collected
 Data collected during the simulation are stored in the `results/` folder.<br>
