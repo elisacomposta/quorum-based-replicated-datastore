@@ -27,7 +27,7 @@ The default channel used is _C50_, however both _client0_ and _client2_ have cha
 ## Parameters
 - **read_quorum**
 - **write_quorum**
-- **plot_enabled** to allow automatic plot at the end of the simulation
+- **plot_enabled** to allow for automatic data plotting at the end of the simulation
 
 ## Assumptions
 - reliable processes and links
